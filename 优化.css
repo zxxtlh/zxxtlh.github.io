@@ -27,6 +27,7 @@ body {
 .nav a:hover{
     color:white;
     background:black;
+    cursor: url(link.cur), auto;
 }
 h2 {
     color: white;
